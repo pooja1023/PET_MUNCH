@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mysqldemo</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_details">details</string>
+    <string name="edit_email">Enter Email ID</string>
+    <string name="edit_pwd">Enter Password</string>
+    <string name="edit_name">Enter UserName</string>
+    <string name="edit_age">Enter Age of Dog</string>
+    <string name="edit_wt">Enter Weight of Dog</string>
+</resources>
